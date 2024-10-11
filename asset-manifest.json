@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5eb1a8ed.css",
+    "main.js": "/static/js/main.0d6cae17.js",
+    "static/media/celebrate.gif": "/static/media/celebrate.3ccc38bde591937274c5.gif",
+    "static/media/bott.webp": "/static/media/bott.eeb807d378241e3441dc.webp",
+    "static/media/multi.webp": "/static/media/multi.4f63f721cc27226b998a.webp",
+    "static/media/ref.webp": "/static/media/ref.f1f66536dab46d6374f9.webp",
+    "static/media/flash.webp": "/static/media/flash.54c1a1d469cb7599925a.webp",
+    "static/media/claim.webp": "/static/media/claim.10c81562bf3aabb74a1a.webp",
+    "static/media/boost.webp": "/static/media/boost.ec7e4dabac866498190d.webp",
+    "static/media/taskbook.webp": "/static/media/taskbook.2d19d41c849b4bc90c20.webp",
+    "index.html": "/index.html",
+    "static/media/tasks.webp": "/static/media/tasks.6cb227796b9f70ccff21.webp",
+    "static/media/coinsmall.webp": "/static/media/coinsmall.f6f06ff640e5df45b650.webp",
+    "static/media/battery.webp": "/static/media/battery.36d05122a461697fc10f.webp"
+  },
+  "entrypoints": [
+    "static/css/main.5eb1a8ed.css",
+    "static/js/main.0d6cae17.js"
+  ]
+}
